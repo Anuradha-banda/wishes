@@ -1,0 +1,15 @@
+
+.centerimg{
+	position: relative;
+    
+    
+ 
+    text-align: center;
+    color:white;
+    font-family: 'Brush Script MT', cursive;
+    
+	top: 50%;
+	left:15%;
+	transform: translate(-50%,- 50%);
+
+}
